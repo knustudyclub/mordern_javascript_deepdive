@@ -2,10 +2,10 @@
 
 ## 🐥 스터디 멤버
 
-| <img src="https://avatars.githubusercontent.com/u/52105661?v=4" width="150" height="150"/> |                                      <img src="https://avatars.githubusercontent.com/u/86452280?v=4" width="150" height="150"/> |                                      <img src="https://avatars.githubusercontent.com/u/92427132?v=4" width="150" height="150"/> |                                      <img src="https://avatars.githubusercontent.com/u/66457807?v=4" width="150" height="150"/> |
-|:------------------------:|:------------------:|:---------------------------:|:---------------------------:|
-|[김대건](https://github.com/toothlessdev)|[라연](https://github.com/Youn-Rha)|[박신영](https://github.com/parknew0)|[조재용](https://github.com/WithJo)|
-|각자 목표😊|각자 목표🤔|각자 목표🧐|무사히 마치기🤯|
+| <img src="https://avatars.githubusercontent.com/u/86452280?v=4" width="150" height="150"/> |                                      <img src="https://avatars.githubusercontent.com/u/92427132?v=4" width="150" height="150"/> |                                      <img src="https://avatars.githubusercontent.com/u/66457807?v=4" width="150" height="150"/> |
+|:------------------:|:---------------------------:|:---------------------------:|
+|[라연](https://github.com/Youn-Rha)|[박신영](https://github.com/parknew0)|[조재용](https://github.com/WithJo)|
+|각자 목표🤔|각자 목표🧐|무사히 마치기🤯|
 
 
 ## 스터디 시간

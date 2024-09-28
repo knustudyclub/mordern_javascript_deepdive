@@ -2,7 +2,7 @@
 
 ## 🐥 스터디 멤버
 
-|![](https://github.com/toothlessdev.png?size=100)|![](https://github.com/Youn-Rha.png?size=100)|![](https://github.com/parknew0.png?size=100)|![](https://github.com/WithJo.png?size=100)|
+|![](https://github.com/toothlessdev.png?size=100)|![](https://github.com/Youn-Rha.png?size=10)|![](https://github.com/parknew0.png?size=100)|![](https://github.com/WithJo.png?size=100)|
 |:------------------------:|:------------------:|:---------------------------:|:---------------------------:|
 |[김대건](https://github.com/toothlessdev)|[라연](https://github.com/Youn-Rha)|[박신영](https://github.com/parknew0)|[조재용](https://github.com/WithJo)|
 |각자 목표😊|각자 목표🤔|각자 목표🧐|무사히 마치기🤯|
